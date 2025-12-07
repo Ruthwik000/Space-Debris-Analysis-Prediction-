@@ -7,6 +7,8 @@ An interactive web-based platform for modeling, visualizing, and predicting sate
 ![React](https://img.shields.io/badge/React-18.2-61dafb)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![WhatsApp Image 2025-12-07 at 22 21 03_f63d5e1c](https://github.com/user-attachments/assets/0934813f-a082-4c5d-9bf3-9a1925252fad)
+
 ## 🌟 Features
 
 ### 📊 Interactive 3D Visualization
